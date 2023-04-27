@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok raj</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 📑  [My Resume](https://drive.google.com/file/d/1y3hIbYgjM1osGg2gblnwsjE_JNlJ8xRW/view?usp=share_link)
 - 🔭  Latest Project [](https://github.com/)
