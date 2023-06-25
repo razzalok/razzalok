@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok raj</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- <a href="https://drive.google.com/file/d/13DsFBW6ihnV4HVtQzGB-erDqhNov4zZ0/view?usp=sharing" target="_blank">📑 My Resume</a>
+- [📑 My Resume](https://drive.google.com/file/d/13DsFBW6ihnV4HVtQzGB-erDqhNov4zZ0/view?usp=sharing)
 
 
 
