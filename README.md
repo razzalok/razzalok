@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok raj</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 📑  [My Resume]([https://drive.google.com/file/d/13DsFBW6ihnV4HVtQzGB-erDqhNov4zZ0/view?usp=sharing])
-- 🔭  Latest Project [](https://github.com/)
+- 
+- <a href="[https://twitter.com/coder_feed](https://drive.google.com/file/d/1ZVuo_Qw5U70Kdubay1DpAve1UfaPBukR/view?usp=sharing)" target="blank">📑  [My Resume]([[https://drive.google.com/file/d/13DsFBW6ihnV4HVtQzGB-erDqhNov4zZ0/view?usp=sharing](https://drive.google.com/file/d/1ZVuo_Qw5U70Kdubay1DpAve1UfaPBukR/view?usp=sharing)])</a>
+
 
 - 💬 Ask me about **JavaScript, React.js**
 
