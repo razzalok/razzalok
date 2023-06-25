@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 
-- <a href="[https://twitter.com/coder_feed](https://drive.google.com/file/d/1ZVuo_Qw5U70Kdubay1DpAve1UfaPBukR/view?usp=sharing)" target="blank">📑  [My Resume]([[https://drive.google.com/file/d/13DsFBW6ihnV4HVtQzGB-erDqhNov4zZ0/view?usp=sharing](https://drive.google.com/file/d/1ZVuo_Qw5U70Kdubay1DpAve1UfaPBukR/view?usp=sharing)])</a>
+- 📑  [My Resume](https://drive.google.com/file/d/1ZVuo_Qw5U70Kdubay1DpAve1UfaPBukR/view?usp=sharing)
 
 
 - 💬 Ask me about **JavaScript, React.js**
